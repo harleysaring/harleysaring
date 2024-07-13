@@ -1,6 +1,6 @@
 # Hi there, I'm Harley Davidson Saring 👋
 
-## - Tech Stack
+  ##Tech Stack
   --- 
   >**Frontend:**
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,12 +22,12 @@
     ![Sockets.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io&logoColor=010101)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## - About Me
+  ##About Me
   --- 
-  >** 🌱 I’m currently learning**
+  - 🌱 I’m currently learning**
     - React
     - Tailwind CSS
   
-  >** 📫 How to reach me**
+  - 📫 How to reach me**
     - Gmail: harleysaring123@gmail.com
     - LinkedIn: https://www.linkedin.com/in/harley-davidson-saring-8b070a2a9/
