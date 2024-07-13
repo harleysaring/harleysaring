@@ -1,7 +1,6 @@
 # Hi there, I'm Harley Davidson Saring 👋
 
   ## Tech Stack
-  --- 
   >**Frontend:**
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
     ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
@@ -23,7 +22,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
   ## About Me
-  --- 
   - 🌱 I’m currently learning
     - React
     - Tailwind CSS
