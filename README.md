@@ -4,6 +4,7 @@
   >**Frontend:**
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
     ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+    ![AJAX](https://img.shields.io/badge/-AJAX-005A9C?style=flat&logo=ajax)
     ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
     ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -19,6 +20,7 @@
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
     ![Sockets.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io&logoColor=010101)
+    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
     ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
