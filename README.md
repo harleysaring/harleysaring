@@ -3,8 +3,8 @@
   ## Tech Stack
   >**Frontend:**
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-    ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
-    ![AJAX](https://img.shields.io/badge/-AJAX-005A9C?style=flat&logo=ajax)
+    ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
+    ![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&logo=ajax)
     ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
     ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
