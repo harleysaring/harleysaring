@@ -16,7 +16,7 @@
     ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
     ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
     
-  >**Tools and Techs:**
+  >**Other tools:**
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
     ![Sockets.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io&logoColor=010101)
