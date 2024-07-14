@@ -13,7 +13,7 @@
     ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)
     ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter&logoColor=EF4223)
     ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-    ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+    ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
     ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
     
   >**Other tools:**
